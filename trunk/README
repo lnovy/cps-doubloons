@@ -1,0 +1,20 @@
+What you need:
+ - GNU Make -- <http://www.gnu.org/software/make/make.html>
+ - Any cron daemon -- I like Vixie's one -- <ftp://ftp.isc.org/isc/cron/>
+ - HTML Tidy -- <http://tidy.sourceforge.net/>
+ - GNU Wget -- <http://www.gnu.org/software/wget/>
+ - GNU Grep -- <http://www.gnu.org/software/grep/>
+ - GNU coreutils -- <http://www.gnu.org/software/coreutils/>
+ - PHP -- version 5.2 works, 5.3 should --  with libxslt support -- <http://www.php.net/>
+ - Web server -- lightttpd, Apache, IIS :D Just about anything capable of serving dynamic PHP content
+ - xpath utility from XML::XPath CPAN package -- <http://search.cpan.org/~msergeant/XML-XPath-1.13/XPath.pm>
+ - The official Facebook PHP Client Library package -- <http://wiki.developers.facebook.com/index.php/PHP>
+   This package contains three directories and a README file, only the php directory is needed
+ - API and the Secret Keys -- Get those from <http://www.facebook.com/developers/#/developers/apps.php> and
+   put them in config/keys
+ - Working brain -- long-term or excessive drinking can and does cause damange to the brain -- Neurological
+   damage and memory loss. Some damage can repair itself, but some can become permanent.
+
+That's about it, just start to hack :)
+
+Krtek
