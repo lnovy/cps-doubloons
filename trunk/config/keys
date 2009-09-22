@@ -1,0 +1,7 @@
+<?php
+
+$appapikey = 'your api key';
+$appsecret = 'your app secret';
+
+?>
+
