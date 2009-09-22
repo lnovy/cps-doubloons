@@ -1,0 +1,15 @@
+<fb:fbml version="1.1">
+<fb:switch>
+	<fb:wide>
+	<div class="inside_the_box wide clearfix app_content" id="app_content">
+		<fb:ref url="http://www.krtek.net/cpsdonation/fbml.php?p=wide" />
+	<div>
+	</fb:wide>
+	<fb:narrow>
+		<fb:ref url="http://www.krtek.net/cpsdonation/fbml.php?p=narrow" />
+	</fb:narrow>
+	<fb:default>
+		<fb:ref url="http://www.krtek.net/cpsdonation/profile.php" />
+	</fb:default>
+</fb:switch>
+</fb:fbml>
