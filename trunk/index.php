@@ -41,7 +41,7 @@ if (0) {
 }
 
 $VER = 1;
-include "default_FBML.php"; // sets $fbml
+$fbml = file_get_contents("default.fbml");
 try {
 	$fb->api_client->profile_setFBML(null, $fb->user, $fbml , null, null, $fbml);
 } catch (Exception $e)
