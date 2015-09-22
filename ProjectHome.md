@@ -1,0 +1,1 @@
+Facebook application displaying transparent bank account of Czech pirate party.
